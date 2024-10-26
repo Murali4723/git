@@ -1,0 +1,20 @@
+#nav{
+   background-image: url(bg.jpg);
+   height: 50px;
+   width: 208vh;
+   margin-top: 0;
+   display: flex;
+}
+#logo{
+    border-radius: 20px;
+    align-items: center;
+    padding-top: 10px;
+    padding-left: 40px;
+    justify-content: flex-start;
+    text-align: trans;
+}
+#menu{
+    justify-items: end;
+    color: azure;   
+    display: flex;
+}
